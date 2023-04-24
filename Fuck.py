@@ -26,7 +26,7 @@ except ImportError:
 
     os.system('pip2 install mechanize')
 
-    os.system('python2 Crazy.py')
+    os.system('python2 Fuck.py')
 
 #Browser Setting
 
